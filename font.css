@@ -1,0 +1,17 @@
+.p2 {
+    font-style: italic;
+}
+
+.p3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkred;
+}
+
+.SecretButton {
+    position:fixed;
+    right: 0px;
+    bottom: 0px;
+}
+audio {
+    display: none;
+}
