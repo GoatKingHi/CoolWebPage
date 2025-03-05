@@ -1,3 +1,4 @@
+document.getElementById("myAudio").pause();
 function enableSound() {
     console.log("Hey");
     document.body.style.backgroundImage = "url(Frikadelle.gif)";
